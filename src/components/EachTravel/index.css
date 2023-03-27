@@ -1,0 +1,23 @@
+.container-list {
+  width: 40%;
+  list-style-type: none;
+  margin: 20px;
+  background-color: #ffffff;
+}
+
+.image-url {
+  width: 500px;
+}
+
+.name {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 17px;
+  padding-left: 5px;
+}
+
+.description {
+  color: #64748b;
+  font-family: 'Roboto';
+  padding-left: 5px;
+}
